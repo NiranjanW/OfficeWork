@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Order BuyerUserId="2299751" Createts="2018-09-14T13:49:45Z" DocumentType="0001" EnteredBy="LEGACY OMS" EnterpriseCode="LCBO.com" EntryType="Web" InvoiceComplete="Y" History="N" OrderComplete="Y" OrderDate="2018-09-14T13:49:45Z" OrderNo="097477773152675000914181" OrderType="STH" SellerOrganizationCode="LCBO.com">
+  <Notes>
+    <Note ContactReference="" ContactTime="2018-09-19T15:38:42Z" ContactType="" NoteText="Customer called in to report that within this order product 582247 &amp;559302 are missing." Priority="0" />
+    <Note ContactReference="" ContactTime="2018-09-20T21:34:43Z" ContactType="" NoteText="RCSM#45531" Priority="0" />
+    <Note ContactReference="" ContactTime="2018-09-21T18:15:10Z" ContactType="" NoteText="Re-shipping missing bottles of 582247 &amp; 559302. Tracking#1020 4240 6898 9809" Priority="0" />
+  </Notes>
+  <PersonInfoBillTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+  <HeaderCharges>
+    <HeaderCharge ChargeAmount="11.95" ChargeCategory="Shipping" ChargeName="Shipping Charge" />
+  </HeaderCharges>
+  <HeaderTaxes>
+    <HeaderTax ChargeCategory="Shipping" ChargeName="Shipping Charge" Tax="1.55" TaxName="Shipping Tax" />
+  </HeaderTaxes>
+  <PaymentMethods>
+    <PaymentMethod CreditCardNo="450004XXXXXX6397" CreditCardType="VISA" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" PaymentReference3="Credit Card" PaymentType="CREDIT_CARD">
+      <PaymentDetailsList>
+        <PaymentDetails AuthorizationExpirationDate="2018-10-14T19:49:02Z" AuthorizationID="082524" ChargeType="CHARGE" CollectionDate="2018-09-14T19:49:02Z" ProcessedAmount="538.80" RequestAmount="538.80" RequestId="10339107" RequestProcessed="Y" />
+      </PaymentDetailsList>
+      <PersonInfoBillTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+    </PaymentMethod>
+  </PaymentMethods>
+  <OrderLines>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="1" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Misterio Malbec" ItemID="28803" ItemShortDesc="Misterio Malbec" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="10.00" UnitPrice="10.00" InvoicedLineTotal="10.00" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.87" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.87" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.13" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="2" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Deinhard Green Label Riesling, Mosel" ItemID="8094" ItemShortDesc="Deinhard Green Label Riesling, Mosel" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="10.00" UnitPrice="10.00" InvoicedLineTotal="10.00" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.87" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.87" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.13" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="3" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Santa Rita 120 Reserva Especial Sauvignon Blanc" ItemID="23606" ItemShortDesc="Santa Rita 120 Reserva Especial Sauvignon Blanc" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="9.75" UnitPrice="9.75" InvoicedLineTotal="9.75" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.65" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.65" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.10" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="4" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Monte Antico" ItemID="69377" ItemShortDesc="Monte Antico" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="13.95" UnitPrice="13.95" InvoicedLineTotal="13.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="12.37" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="12.37" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.58" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="5" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Woodbridge By Robert Mondavi Chardonnay" ItemID="99408" ItemShortDesc="Woodbridge By Robert Mondavi Chardonnay" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="11.75" UnitPrice="11.75" InvoicedLineTotal="11.75" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="10.42" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="10.42" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.33" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="6" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Folonari Pinot Grigio" ItemID="229542" ItemShortDesc="Folonari Pinot Grigio" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="12.95" UnitPrice="12.95" InvoicedLineTotal="12.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="11.48" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="11.48" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.47" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="7" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Santa Rita 120 Reserva Especial Cabernet Sauvignon" ItemID="218644" ItemShortDesc="Santa Rita 120 Reserva Especial Cabernet Sauvignon" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="9.75" UnitPrice="9.75" InvoicedLineTotal="9.75" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.65" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.65" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.10" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="8" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Ruffino Lumina Pinot Grigio IGT" ItemID="589101" ItemShortDesc="Ruffino Lumina Pinot Grigio IGT" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="11.95" UnitPrice="11.95" InvoicedLineTotal="11.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="10.60" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="10.60" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.35" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="9" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Masi Modello Merlot Trevenezie IGT" ItemID="533026" ItemShortDesc="Masi Modello Merlot Trevenezie IGT" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="11.95" UnitPrice="11.95" InvoicedLineTotal="11.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="10.60" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="10.60" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.35" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="10" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Grand Sud Merlot" ItemID="171314" ItemShortDesc="Grand Sud Merlot" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="10.50" UnitPrice="10.50" InvoicedLineTotal="10.50" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="9.32" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="9.32" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.19" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="-0.01" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="11" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Les Jamelles Merlot Pays d'Oc" ItemID="245324" ItemShortDesc="Les Jamelles Merlot Pays d'Oc" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="13.00" UnitPrice="13.00" InvoicedLineTotal="13.00" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="11.53" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="11.53" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.47" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="12" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Beronia Tempranillo Rioja" ItemID="243055" ItemShortDesc="Beronia Tempranillo Rioja" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="11.85" UnitPrice="11.85" InvoicedLineTotal="11.85" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="10.51" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="10.51" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.34" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="13" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Adobe Reserva Merlot Organic" ItemID="322024" ItemShortDesc="Adobe Reserva Merlot Organic" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="11.15" UnitPrice="11.15" InvoicedLineTotal="11.15" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="9.89" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="9.89" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.26" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="14" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Epica Red" ItemID="350520" ItemShortDesc="Epica Red" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="11.20" UnitPrice="11.20" InvoicedLineTotal="11.20" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="9.93" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="9.93" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.26" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.01" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="15" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Farina Valpolicella Ripasso Superiore DOC" ItemID="195966" ItemShortDesc="Farina Valpolicella Ripasso Superiore DOC" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="15.45" UnitPrice="15.45" InvoicedLineTotal="15.45" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="13.70" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="13.70" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.76" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="-0.01" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="16" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Argento Malbec Reserva" ItemID="363192" ItemShortDesc="Argento Malbec Reserva" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="11.75" UnitPrice="11.75" InvoicedLineTotal="11.75" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="10.42" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="10.42" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.33" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="17" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Fantini Farnese Pinot Grigio IGP" ItemID="391631" ItemShortDesc="Fantini Farnese Pinot Grigio IGP" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="8.45" UnitPrice="8.45" InvoicedLineTotal="8.45" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="7.50" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="7.50" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="0.95" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="18" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Riverlore Sauvignon Blanc Marlborough" ItemID="417600" ItemShortDesc="Riverlore Sauvignon Blanc Marlborough" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="14.20" UnitPrice="14.20" InvoicedLineTotal="14.20" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="12.59" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="12.59" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.61" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="19" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="56 Hundred Cabernet Sauvignon Shiraz" ItemID="437442" ItemShortDesc="56 Hundred Cabernet Sauvignon Shiraz" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="9.80" UnitPrice="9.80" InvoicedLineTotal="9.80" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.70" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.70" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.11" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="-0.01" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="20" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="McGuigan Black Label Pinot Grigio" ItemID="441576" ItemShortDesc="McGuigan Black Label Pinot Grigio" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="9.85" UnitPrice="9.85" InvoicedLineTotal="9.85" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.74" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.74" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.11" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="21" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="19 Crimes Cabernet Sauvignon" ItemID="461525" ItemShortDesc="19 Crimes Cabernet Sauvignon" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="16.50" UnitPrice="16.50" InvoicedLineTotal="16.50" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="14.62" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="14.62" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.87" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.01" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="22" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Yalumba Y Series Viognier" ItemID="470062" ItemShortDesc="Yalumba Y Series Viognier" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="12.95" UnitPrice="12.95" InvoicedLineTotal="12.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="11.48" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="11.48" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.47" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="23" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Casillero Del Diablo Pinot Grigio Reserva" ItemID="483255" ItemShortDesc="Casillero Del Diablo Pinot Grigio Reserva" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="11.00" UnitPrice="11.00" InvoicedLineTotal="11.00" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="9.76" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="9.76" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.24" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="24" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Ménage à Trois Gold Chardonnay" ItemID="485417" ItemShortDesc="Ménage à Trois Gold Chardonnay" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="15.95" UnitPrice="15.95" InvoicedLineTotal="15.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="14.14" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="14.14" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.81" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="25" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Santa Julia Magna Malbec Cabernet" ItemID="499699" ItemShortDesc="Santa Julia Magna Malbec Cabernet" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="13.25" UnitPrice="13.25" InvoicedLineTotal="13.25" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="11.75" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="11.75" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.50" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="26" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Dan Aykroyd Cabernet Shiraz VQA" ItemID="74062" ItemShortDesc="Dan Aykroyd Cabernet Shiraz VQA" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="12.95" UnitPrice="12.95" InvoicedLineTotal="12.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="11.48" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="11.48" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.47" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="27" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Cono Sur Bicicleta Cabernet Sauvignon" ItemID="524371" ItemShortDesc="Cono Sur Bicicleta Cabernet Sauvignon" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="9.55" UnitPrice="9.55" InvoicedLineTotal="9.55" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.47" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.47" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.08" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="28" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Food Truck Wines Shiraz" ItemID="545608" ItemShortDesc="Food Truck Wines Shiraz" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="12.95" UnitPrice="12.95" InvoicedLineTotal="12.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="11.48" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="11.48" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.47" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="29" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="OPI Chardonnay" ItemID="406934" ItemShortDesc="OPI Chardonnay" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="11.95" UnitPrice="11.95" InvoicedLineTotal="11.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="10.60" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="10.60" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.35" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="30" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Lindemans Bin 65 Chardonnay" ItemID="142117" ItemShortDesc="Lindemans Bin 65 Chardonnay" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="10.95" UnitPrice="10.95" InvoicedLineTotal="10.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="9.71" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="9.71" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.24" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="31" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Beringer Main &amp; Vine White Zinfandel" ItemID="239756" ItemShortDesc="Beringer Main &amp; Vine White Zinfandel" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="10.95" UnitPrice="10.95" InvoicedLineTotal="10.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="9.71" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="9.71" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.24" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="32" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="L'Orangeraie Rose Pays D'OC" ItemID="279661" ItemShortDesc="L'Orangeraie Rose Pays D'OC" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="10.65" UnitPrice="10.65" InvoicedLineTotal="10.65" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="9.45" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="9.45" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.20" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="33" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Jackson-Triggs Rosé" ItemID="619791" ItemShortDesc="Jackson-Triggs Rosé" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="9.95" UnitPrice="9.95" InvoicedLineTotal="9.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.83" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.83" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.12" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="34" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Hob Nob Pinot Noir Pays D'OC" ItemID="184069" ItemShortDesc="Hob Nob Pinot Noir Pays D'OC" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="11.00" UnitPrice="11.00" InvoicedLineTotal="11.00" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="9.76" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="9.76" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.24" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="35" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Reif Estate Vidal Icewine VQA" ItemID="582247" ItemShortDesc="Reif Estate Vidal Icewine VQA" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="7.95" UnitPrice="7.95" InvoicedLineTotal="7.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="7.04" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="7.04" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.00" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="0.92" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="-0.01" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="36" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Inniskillin Vidal Icewine" ItemID="559302" ItemShortDesc="Inniskillin Vidal Icewine" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="7.95" UnitPrice="7.95" InvoicedLineTotal="7.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="7.04" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="7.04" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.00" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="0.92" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="-0.01" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="37" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Santa Carolina Shiraz" ItemID="644062" ItemShortDesc="Santa Carolina Shiraz" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="8.70" UnitPrice="8.70" InvoicedLineTotal="8.70" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="7.72" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="7.72" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="0.98" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="38" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Frisky Zebras Seductive Shiraz" ItemID="237644" ItemShortDesc="Frisky Zebras Seductive Shiraz" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="9.95" UnitPrice="9.95" InvoicedLineTotal="9.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.83" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.83" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.12" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="39" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Gato Negro Cabernet Sauvignon" ItemID="188193" ItemShortDesc="Gato Negro Cabernet Sauvignon" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="9.45" UnitPrice="9.45" InvoicedLineTotal="9.45" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.39" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.39" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.06" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="40" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Barone Montalto Nero D'Avola Cabernet Ter Sicilane IGT" ItemID="621151" ItemShortDesc="Barone Montalto Nero D'Avola Cabernet Ter Sicilane IGT" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="9.55" UnitPrice="9.55" InvoicedLineTotal="9.55" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.47" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.47" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.08" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="41" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Schmitt Sohne Mosel Gold Riesling" ItemID="233726" ItemShortDesc="Schmitt Sohne Mosel Gold Riesling" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="10.30" UnitPrice="10.30" InvoicedLineTotal="10.30" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="9.14" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="9.14" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.16" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="42" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Montalto Pinot Grigio Sicily IGT" ItemID="73148" ItemShortDesc="Montalto Pinot Grigio Sicily IGT" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="10.05" UnitPrice="10.05" InvoicedLineTotal="10.05" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.92" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.92" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.13" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="43" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Mezzomondo Pinot Grigio Chardonnay IGT" ItemID="79301" ItemShortDesc="Mezzomondo Pinot Grigio Chardonnay IGT" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="9.95" UnitPrice="9.95" InvoicedLineTotal="9.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.83" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.83" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.12" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="44" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="The Pavillion Chenin Blanc Viognier" ItemID="281311" ItemShortDesc="The Pavillion Chenin Blanc Viognier" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="11.35" UnitPrice="11.35" InvoicedLineTotal="11.35" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="10.07" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="10.07" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.28" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="45" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Mezzomondo Sangiovese Merlot Puglia IGT" ItemID="79327" ItemShortDesc="Mezzomondo Sangiovese Merlot Puglia IGT" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="9.95" UnitPrice="9.95" InvoicedLineTotal="9.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.83" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.83" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.12" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="46" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Terra Vega Sauvignon Blanc KPM" ItemID="156968" ItemShortDesc="Terra Vega Sauvignon Blanc KPM" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="10.40" UnitPrice="10.40" InvoicedLineTotal="10.40" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="9.23" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="9.23" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.17" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+    <OrderLine CarrierServiceCode="Standard" DeliveryMethod="SHP" OrderedQty="1" OriginalOrderedQty="1" PrimeLineNo="47" PipelineId="LCBO Sales Order Fulfillment" PipelineOwnerKey="LCBO" ReqCancelDate="" SCAC="CAN_POST" ShipNode="974" ShippedQuantity="1">
+      <Item ItemDesc="Hardys Stamp Series Riesling Gewurztraminer" ItemID="448548" ItemShortDesc="Hardys Stamp Series Riesling Gewurztraminer" ProductClass="GOOD" ProductLine="GL" UnitOfMeasure="EACH" />
+      <LinePriceInfo IsLinePriceForInformationOnly="N" ListPrice="9.95" UnitPrice="9.95" InvoicedLineTotal="9.95" />
+      <PersonInfoShipTo AddressLine1="431 XXXXXXXXXX" AddressLine2="UnXXXXX" AddressLine3="" City="BXXXXX" Country="CA" DayPhone="705XXXXXXX" EMailID="charoXXXXXXXXXXXXXXXXXXXXXXX" FirstName="CXXXXX" LastName="CXXXX" MiddleName="" State="ON" ZipCode="L4NXXX" />
+      <LineCharges>
+        <LineCharge ChargeCategory="BasicPrice" ChargeName="BasicPrice" ChargePerUnit="8.83" />
+        <LineCharge ChargeCategory="NewBasicPrice" ChargeName="NewBasicPrice" ChargePerUnit="8.83" />
+        <LineCharge ChargeCategory="BottleDeposit" ChargeName="BottleDeposit" ChargePerUnit="0.20" />
+      </LineCharges>
+      <LineTaxes>
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST" Reference1="1.12" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HSTRoundingTax" Reference1="0.00" />
+        <LineTax ChargeCategory="Taxes" Tax="0.00" TaxName="HST Rate" Reference1="13" />
+      </LineTaxes>
+      <OrderStatuses>
+        <OrderStatus Status="3700" StatusDate="2018-09-18T17:49:02Z" StatusQty="1">
+          <Schedule ShipNode="974" />
+        </OrderStatus>
+      </OrderStatuses>
+      <Extn ExtnBonusAirmiles="" />
+    </OrderLine>
+  </OrderLines>
+</Order>

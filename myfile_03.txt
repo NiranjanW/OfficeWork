@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ItemList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Item Action="Manage" ItemGroupCode="PROD" ItemID="2048" OrganizationCode="LCBO" UnitOfMeasure="EACH">
+    <PrimaryInformation UnitLengthUOM="CM" UnitHeightUOM="CM" ShortDescription="Stock Sweet Vermouth Red" Status="3000" IsPickupAllowed="Y" IsProcurementAllowed="Y" IsReturnable="Y" UnitWeightUOM="KG" UnitWeight="1.5330" IsShippingAllowed="Y" DefaultProductClass="GOOD" Description="Stock Sweet Vermouth Red" ProductLine="GL" UnitWidthUOM="CM"/>
+
+    <ItemAliasList Reset="Y">
+      <ItemAlias AliasName="UPC " AliasValue="082352411161"/>
+    </ItemAliasList>
+
+    <AdditionalAttributeList Reset="Y">
+      <AdditionalAttribute AttributeGroupID="LCBO" AttributeDomainID="ItemAttribute" Value="16" Name="Alcohol_percent"/>
+      <AdditionalAttribute AttributeGroupID="LCBO" AttributeDomainID="ItemAttribute" Value="12" Name="Bottles_per_case"/>
+      <AdditionalAttribute AttributeGroupID="LCBO" AttributeDomainID="ItemAttribute" Value="1" Name="Bottles_per_pack"/>
+      <AdditionalAttribute AttributeGroupID="LCBO" AttributeDomainID="ItemAttribute" Value="1000" Name="Volume"/>
+      <AdditionalAttribute AttributeGroupID="LCBO" AttributeDomainID="ItemAttribute" Value="ML" Name="Volume_UOM"/>
+    </AdditionalAttributeList>
+
+    <ItemLocaleList Reset="Y">
+      <ItemLocale Language="fr" Country="CA">
+        <PrimaryInformation Description="Vermouth Rouge Doux Stock"/>
+      </ItemLocale>
+      <ItemLocale Language="en" Country="CA">
+        <PrimaryInformation ExtendedDescription="Cola brown colour; fairly intense aroma of herbs, burnt caramel, chocolate &amp; dried wood tones; good balance of sweet fruit and bitter finish" Description="Stock Sweet Vermouth Red"/>
+      </ItemLocale>
+    </ItemLocaleList>
+  </Item>
+</ItemList>
