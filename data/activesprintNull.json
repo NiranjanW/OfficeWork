@@ -1,0 +1,332 @@
+{
+	"sharedSpace": "71038",
+	"workspaces": [{
+		"id": "15001",
+		"name": "MicroStrategy_API",
+		"defects": [{
+			"type": "defect",
+			"creation_time": "2019-04-02T16:02:48Z",
+			"owner": "venkata.paila@lcbo.com",
+			"phase": "Duplicate",
+			"severity": "2 \u2013 High",
+			"author": "shelagh.marshall@lcbo.com",
+			"release": "Release 3",
+			"story_points": 7,
+			"sprint": "Sprint 1 JSON File",
+			"team": "Team 2",
+			"priority": "2 \u2013 High",
+			"fixed_in_build": null,
+			"detected_in_release": "Release 3",
+			"root_cause_classification_udf": "Testing",
+			"root_cause_udf": "Discussion Issue - No Fix Required",
+			"blocked_reason": "Test for JSON file",
+			"detected_by": "shelagh.marshall@lcbo.com",
+			"closed_on": "2019-04-02T16:00:46Z",
+			"cancelled_reason_code_udf": "Duplicate",
+			"name": "Test JSON Closed Defect",
+			"id": "169001",
+			"detected_in_build": null,
+			"defect_type": "Escaped",
+			"detected_in_release_start_date": "2019-04-01T12:00:00Z",
+			"detected_in_release_end_date": "2019-05-31T12:00:00Z",
+			"release_start_date": "2019-04-01T12:00:00Z",
+			"release_end_date": "2019-05-31T12:00:00Z",
+			"sprint_start_date": "2019-04-01T12:00:00Z",
+			"sprint_end_date": "2019-04-28T12:00:00Z",
+			"team_estimated_velocity": 120
+		},
+		{
+			"type": "defect",
+			"creation_time": "2019-04-02T15:50:11Z",
+			"owner": "john.vigliotta@lcbo.com",
+			"phase": "Opened",
+			"severity": "3 \u2013 Medium",
+			"author": "shelagh.marshall@lcbo.com",
+			"release": "Release 3",
+			"story_points": 8,
+			"sprint": "Sprint 1 JSON File",
+			"team": "Team 2",
+			"priority": "2 \u2013 High",
+			"fixed_in_build": null,
+			"detected_in_release": "Release 3",
+			"root_cause_classification_udf": null,
+			"root_cause_udf": null,
+			"blocked_reason": null,
+			"detected_by": "shelagh.marshall@lcbo.com",
+			"cancelled_reason_code_udf": null,
+			"closed_on": null,
+			"name": "Test JSON file Active Defect",
+			"id": "168001",
+			"defect_type": null,
+			"detected_in_build": null,
+			"detected_in_release_start_date": "2019-04-01T12:00:00Z",
+			"detected_in_release_end_date": "2019-05-31T12:00:00Z",
+			"release_start_date": "2019-04-01T12:00:00Z",
+			"release_end_date": "2019-05-31T12:00:00Z",
+			"sprint_start_date": "2019-04-01T12:00:00Z",
+			"sprint_end_date": "2019-04-28T12:00:00Z",
+			"team_estimated_velocity": 120
+		}],
+		"stories": [{
+			"type": "story",
+			"owner": "shelagh.marshall@lcbo.com",
+			"phase": "New",
+			"author": "venkata.paila@cigniti.com",
+			"release": "Release 3",
+			"story_points": 3,
+			"sprint": "Sprint 1 JSON File",
+			"name": "This is a sample user story 1",
+			"id": "166024",
+			"team": "Team 2",
+			"priority": null,
+			"release_start_date": "2019-04-01T12:00:00Z",
+			"release_end_date": "2019-05-31T12:00:00Z",
+			"team_estimated_velocity": 120,
+			"sprint_start_date": "2019-04-01T12:00:00Z",
+			"sprint_end_date": "2019-04-28T12:00:00Z"
+		},
+		{
+			"type": "story",
+			"owner": "shelagh.marshall@lcbo.com",
+			"phase": "New",
+			"author": "venkata.paila@cigniti.com",
+			"release": "Release 3",
+			"story_points": 8,
+			"sprint": "Sprint 1 JSON File",
+			"name": "This is a sample user story 2",
+			"id": "167027",
+			"team": "Team 2",
+			"priority": null,
+			"release_start_date": "2019-04-01T12:00:00Z",
+			"release_end_date": "2019-05-31T12:00:00Z",
+			"team_estimated_velocity": 120,
+			"sprint_start_date": "2019-04-01T12:00:00Z",
+			"sprint_end_date": "2019-04-28T12:00:00Z"
+		},
+		{
+			"type": "story",
+			"owner": "john.vigliotta@lcbo.com",
+			"phase": "New",
+			"author": "venkata.paila@cigniti.com",
+			"release": "Release 3",
+			"story_points": 5,
+			"sprint": "Sprint 1 JSON File",
+			"name": "This is a sample user story 4",
+			"id": "166025",
+			"team": "Team 2",
+			"priority": null,
+			"release_start_date": "2019-04-01T12:00:00Z",
+			"release_end_date": "2019-05-31T12:00:00Z",
+			"team_estimated_velocity": 120,
+			"sprint_start_date": "2019-04-01T12:00:00Z",
+			"sprint_end_date": "2019-04-28T12:00:00Z"
+		},
+		{
+			"type": "story",
+			"owner": "shelagh.marshall@lcbo.com",
+			"phase": "New",
+			"author": "shelagh.marshall@lcbo.com",
+			"release": "Release 3",
+			"story_points": 8,
+			"sprint": "Sprint 1 JSON File",
+			"name": "User Story to test JSON file",
+			"id": "168026",
+			"team": "Team 2",
+			"priority": null,
+			"release_start_date": "2019-04-01T12:00:00Z",
+			"release_end_date": "2019-05-31T12:00:00Z",
+			"team_estimated_velocity": 120,
+			"sprint_start_date": "2019-04-01T12:00:00Z",
+			"sprint_end_date": "2019-04-28T12:00:00Z"
+		},
+		{
+			"type": "story",
+			"owner": "john.vigliotta@lcbo.com",
+			"phase": "New",
+			"author": "shelagh.marshall@lcbo.com",
+			"release": "Release 3",
+			"story_points": 10,
+			"sprint": "Sprint 1 JSON File",
+			"name": "User Story to Test JSON file",
+			"id": "168028",
+			"team": "Team 2",
+			"priority": null,
+			"release_start_date": "2019-04-01T12:00:00Z",
+			"release_end_date": "2019-05-31T12:00:00Z",
+			"team_estimated_velocity": 120,
+			"sprint_start_date": "2019-04-01T12:00:00Z",
+			"sprint_end_date": "2019-04-28T12:00:00Z"
+		}],
+		"sprint": "Sprint 1 JSON File",
+		"sprint_start_date": "2019-04-01T12:00:00Z",
+		"sprint_end_date": "2019-04-28T12:00:00Z",
+		"events": [{
+			"date": "20190401",
+			"scope": 20.0,
+			"remainingwork": 20.0,
+			"capacity": 19.3
+		},
+		{
+			"date": "20190402",
+			"scope": 86.0,
+			"remainingwork": 55.0,
+			"capacity": 79.9
+		},
+		{
+			"date": "20190403",
+			"scope": 118.0,
+			"remainingwork": 85.0,
+			"capacity": 105.4
+		},
+		{
+			"date": "20190404",
+			"scope": 118.0,
+			"remainingwork": 85.0,
+			"capacity": 101.1
+		},
+		{
+			"date": "20190405",
+			"scope": 123.0,
+			"remainingwork": 90.0,
+			"capacity": 101.0
+		},
+		{
+			"date": "20190406",
+			"scope": 123.0,
+			"remainingwork": 90.0,
+			"capacity": 96.6
+		},
+		{
+			"date": "20190407",
+			"scope": 123.0,
+			"remainingwork": 90.0,
+			"capacity": 92.2
+		},
+		{
+			"date": "20190408",
+			"scope": 123.0,
+			"remainingwork": 90.0,
+			"capacity": 87.9
+		},
+		{
+			"date": "20190409",
+			"scope": 123.0,
+			"remainingwork": 90.0,
+			"capacity": 83.5
+		},
+		{
+			"date": "20190410",
+			"scope": 123.0,
+			"remainingwork": 90.0,
+			"capacity": 79.1
+		},
+		{
+			"date": "20190411",
+			"scope": 123.0,
+			"remainingwork": 90.0,
+			"capacity": 74.7
+		},
+		{
+			"date": "20190412",
+			"scope": 123.0,
+			"remainingwork": 90.0,
+			"capacity": 70.3
+		},
+		{
+			"date": "20190413",
+			"scope": 123.0,
+			"remainingwork": 90.0,
+			"capacity": 65.9
+		},
+		{
+			"date": "20190414",
+			"scope": 123.0,
+			"remainingwork": 90.0,
+			"capacity": 61.5
+		},
+		{
+			"date": "20190415",
+			"scope": 123.0,
+			"remainingwork": 90.0,
+			"capacity": 57.1
+		},
+		{
+			"date": "20190416",
+			"scope": 123.0,
+			"remainingwork": 90.0,
+			"capacity": 52.7
+		},
+		{
+			"date": "20190417",
+			"scope": 123.0,
+			"remainingwork": 82.0,
+			"capacity": 48.3
+		},
+		{
+			"date": "20190418",
+			"scope": 123.0,
+			"remainingwork": 82.0,
+			"capacity": 43.9
+		},
+		{
+			"date": "20190419",
+			"scope": 123.0,
+			"remainingwork": 82.0,
+			"capacity": 39.5
+		},
+		{
+			"date": "20190420",
+			"scope": 123.0,
+			"remainingwork": 82.0,
+			"capacity": 35.1
+		},
+		{
+			"date": "20190421",
+			"scope": 123.0,
+			"remainingwork": 82.0,
+			"capacity": 30.8
+		},
+		{
+			"date": "20190422",
+			"scope": 123.0,
+			"remainingwork": 82.0,
+			"capacity": 26.4
+		},
+		{
+			"date": "20190423",
+			"scope": 123.0,
+			"remainingwork": 82.0,
+			"capacity": 22.0
+		},
+		{
+			"date": "20190424",
+			"scope": 123.0,
+			"remainingwork": 82.0,
+			"capacity": 17.6
+		},
+		{
+			"date": "20190425",
+			"scope": 123.0,
+			"remainingwork": 82.0,
+			"capacity": 13.2
+		},
+		{
+			"date": "20190426",
+			"scope": 123.0,
+			"remainingwork": 82.0,
+			"capacity": 8.8
+		},
+		{
+			"date": "20190427",
+			"scope": 123.0,
+			"remainingwork": 82.0,
+			"capacity": 4.4
+		},
+		{
+			"date": "20190428",
+			"scope": 123.0,
+			"remainingwork": 82.0,
+			"capacity": 0.0
+		}]
+	}]
+}
